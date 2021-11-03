@@ -17,3 +17,11 @@ Dashboard Page: User can see the Weekly, Monthaly and Yearly data visualization 
 ![image](https://user-images.githubusercontent.com/56809782/140123401-f921a8c4-b0b1-4683-b241-dd88f5901a56.png)
 
 I have followed this Udemy tutorial https://www.udemy.com/course/react-data-visualization-build-a-cryptocurrency-dashboard/
+
+
+To run this code:
+
+1. Clone the project
+2. In terminal write "npm install"
+3. After installation write "npm start"
+4. Check browser
